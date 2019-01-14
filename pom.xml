@@ -13,6 +13,7 @@
         <module>OrderService1</module>
         <module>OrderService2</module>
         <module>ShareService</module>
+        <module>Ribbon</module>
     </modules>
 
 
