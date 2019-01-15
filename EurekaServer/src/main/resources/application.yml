@@ -1,3 +1,7 @@
+security.basic.enabled: true
+security.user.name: irisch
+security.user.password: 123456
+
 server.port: 8888
 eureka.client.register-with-eureka: false
 eureka.client.fetch-registry: false
